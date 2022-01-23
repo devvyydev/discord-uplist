@@ -1,0 +1,19 @@
+--X-- https://vcodes.xyz = https://uplist.disc-uplist.xyz/
+vcodes.xyz = uplist
+vcodes = uplist
+
+Void Development = LiquorDev
+void = LiquorDev
+
+--X-- Copyright 2020 -2021 © All rights reserved. = Copyright 2021 © uplist - All rights reserved.
+
+--X-- claudette = devvyy
+--X-- Claudette#0241 = devvyy#8839
+
+--X-- watching vcodes.xyz | 0 bots = watching uplist | 0 bots
+--X-- watching -bump & -vote | vcodes.xyz/servers = watching uplist | up!bump & up!vote
+
+
+change bump and vote image
+finnish copyright text
+change all owners to meh
